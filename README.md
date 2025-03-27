@@ -1,6 +1,9 @@
 # Native5 & Native5.2
 Overview:
 NativeFive.exe and NativeFive.2.exe are tools designed to emulate the logic of cd (change directory) and dir (list directory contents) binaries on Windows. These tools interact with the file system, allowing navigation between directories and listing directory contents while incorporating Windows API calls.
+
+Note: Tool was compiled in C++ using Microsoft Visual Studio
+
 Operating System Compatibility
 
 Tested on: Windows
