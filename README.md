@@ -73,6 +73,3 @@ Future Enhancements
 * Add support for filtering files by extension
 * Improve logging and error handling
 
-Contributors
-* Kyle H.
-
