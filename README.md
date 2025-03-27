@@ -17,9 +17,9 @@ NativeFive.exe Features:
 NativeFive.2.exe Features
 * Lists directory contents, including file attributes and optional metadata.
 * Accepts full path arguments and supports the following switches:
-o /A ? Show all files (including hidden/system files).
-o /S ? Recursively list all subdirectories.
-o /Q ? Display file ownership information.
+o /A  Show all files (including hidden/system files).
+o /S  Recursively list all subdirectories.
+o /Q  Display file ownership information.
 * Uses Win32 API calls such as GetFileAttributesW(), FindFirstFileW(), and LookupAccountSidW() to retrieve directory and file information.
 
 *  Important Note on Changing Directories (NativeFive.exe)
